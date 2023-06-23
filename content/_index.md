@@ -28,6 +28,7 @@ sections:
   #         icon: camera-retro
   #         icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -206,6 +207,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       # text: |-

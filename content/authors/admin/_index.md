@@ -28,7 +28,7 @@ bio: My research interests include machine learning, quantum chemistry and high-
 interests:
   - Machine Learning
   - Computational Chemistry
-  - Data Science
+  - Software Engineering
 
 # Education to show in About widget
 education:
@@ -38,7 +38,7 @@ education:
       year: Anticipated 2023
     - course: BSc in Chemistry with Research Distinction
       institution: The Ohio State University
-      year: 2016
+      year: 2019
     
 
 # Social/Academic Networking
@@ -78,5 +78,4 @@ email: ''
 highlight_name: true
 ---
 
-I'm a PhD student in the Persson Group in Materials Science at the University of California, Berkeley. My primary interests are in developing machine learning methods for the analysis of quantum chemical calculations. I am currently focused on manipulating deep learning frameworks to better understand the precise structures of zeolites. I am also interested statistical frameworks for analyzing messy experimental data to derive as much information as possible from imperfect measurements.
-
+I'm a PhD student in the Persson Group in Materials Science at the University of California, Berkeley. I am a result-driven research scientist specializes in developing new machine learning methods and improving existing methods for the analysis of quantum chemical calculations. My current work focuses on designing machine learning workflows to better understand the precise structures of zeolite catalysts. I also work on designing statistical frameworks for analyzing messy and overlapping experimental data to help make high throughput chemistry possible. I am also a passionate developer of high throughput numerical libraries and software for processing and analyzing computational chemistry data using a multitude of tools, including statistical learning, numerical optimization, and machine learning. Proficient in C++ and python programming languages, although open to learning others as needed.
