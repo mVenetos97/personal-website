@@ -26,7 +26,10 @@ publication_short: ""
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Most nuclear magnetic resonance (NMR) modeling is focused entirely on the isotropic nuclear shielding. The NMR measurement, however, probes a tensor property and significant stuctural information is lost if we only look at the isotropic portion of this tensor. Unfortunately, modeling a tensor is not straightforward, as tensor symmetries must be taken into account when building the model, and this has been impossible up until now. In this work we introduce a graph neural network (GNN) that is capable of predicting NMR tensors. We further benchmark this model and take a deep dive into the best practices for designing and assessing tensor based models.
+
+My main contributions to this work are: (1) curation and processing of data set, (2) building, training, and assessments of all models, (3) developing tensor evaluation frameworks and comparisons to existing frameworks.
+"
 
 tags:
 - Source Themes
@@ -66,7 +69,7 @@ projects: []
 slides: "" #example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -74,4 +77,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
