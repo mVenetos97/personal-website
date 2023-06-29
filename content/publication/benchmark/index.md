@@ -25,13 +25,10 @@ publication_types: ["2"]
 publication: "*Journal of Chemical Theory and Computation, 19*(11)"
 publication_short: ""
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: "Very few benchmarks exist for reaction barriers, and even fewer exist for reaction barriers for hydrolysis reactions. In this work we develop a dataset of 36 chemically diverse hydrolysis transition state barrier heights at CCSD(T)/CBS level of theory. We then benchmark 63 density functionals on these reactions to determine the best functionals for the prediction of transition state energy.
-
-
-In this work my main contributions were (1) designing the dataset and choosing reactions to fully capture the diverse space of hydrolysis reactions, (2) establishing theoretical methodology for the calculation of CCSD(T)/CBS level of theory, and (3) statistical analysis of the results."
+summary: Very few benchmarks exist for reaction barriers, and even fewer exist for reaction barriers for hydrolysis reactions. In this work we develop a dataset of 36 chemically diverse hydrolysis transition state barrier heights at CCSD(T)/CBS level of theory. We then benchmark 63 density functionals on these reactions to determine the best functionals for the prediction of transition state energy. In this work my main contributions were (1) designing the dataset and choosing reactions to fully capture the diverse space of hydrolysis reactions, (2) establishing theoretical methodology for the calculation of CCSD(T)/CBS level of theory, and (3) statistical analysis of the results.
 
 
 tags:
