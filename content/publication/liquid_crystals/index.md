@@ -1,5 +1,5 @@
 ---
-title: "Machine learning full NMR chemical shift tensors of silicon oxides with equivariant graph neural networks"
+title: "Light Control with Liquid Crystalline Elastomers"
 authors:
 - Michelle Brannum
 - Aubrey Steele
