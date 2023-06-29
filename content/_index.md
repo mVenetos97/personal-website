@@ -50,7 +50,8 @@ sections:
           description: |2-
               Current goals of research:
 
-              * ML
+              * Develop ML-based software and workflows for rapid structure elucidation based on NMR spectroscopy (see nmrcryspy).
+              * Combine computational chemistry and statistical learning to automate analysis of NMR spectra of mixtures containing novel compounds.
         - title: Physical Chemistry Undergraduate Student Assistant
           company: The Ohio State University
           company_url: 'https://www.grandinetti.org'
@@ -58,7 +59,10 @@ sections:
           location: Columbus, OH
           date_start: '2017-08-01'
           date_end: '2020-08-01'
-          description: modeled
+          description: |2-
+              * Designed and performed high throughput computational chemistry calculations to model structure-NMR relationships in silica glasses.
+              * Designed and programmed spectral processing package for Python library mrsimulator.
+              * Assisted in NMR pulse sequence design and spectral processing.
         - title: Polymer Chemistry Undergraduate Student Assistant
           company: The University of Chicago
           company_url: 'https://pme.uchicago.edu/rowan-group'
@@ -66,15 +70,18 @@ sections:
           location: Chicago, IL
           date_start: '2018-05-30'
           date_end: '2018-08-01'
-          description: polymers
+          description: |2-
+              * Synthesized polymers under various conditions and dye-additives to optimize photo-healing of polymers.
+              * Performed mechanical testing and spectroscopic characterization of polymeric samples.
         - title: Optical Materials Undergraduate Student Assistant
           company: Air Force Research Labs
-          company_url: 'https://pme.uchicago.edu/rowan-group'
+          company_url: 'https://www.colorado.edu/chbe/timothy-j-white'
           company_logo: #org-x
           location: Dayton, OH
           date_start: '2016-05-30'
           date_end: '2017-08-01'
-          description: optical materials
+          description: |2-
+              * Assisted synthesis of liquid-crystal polymers under various conditions and to optimize mechanical and optical properties.
     design:
       columns: '2'
   - block: markdown
